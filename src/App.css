@@ -143,9 +143,9 @@
 
         .ganesha-img {
           display: block;
-          width: 96px;
+          width: 82px;
           height: auto;
-          margin: 0 auto 6px;
+          margin: 0 auto 4px;
           opacity: 0;
           animation: fade-in 1.2s ease forwards 1.4s;
         }

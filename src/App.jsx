@@ -63,14 +63,14 @@ const CONFIG = {
     {
       key: "sangeet",
       icon: "🎶",
-      name: "Sangeet",
+      name: "Sangeet & Ring Ceremony",
       date: "29th November 2026",
       time: "6:00 PM Onwards",
       venue: "The Monarch Garden, Muzaffarpur",
       mapsUrl:
         "https://www.google.com/maps/search/?api=1&query=" +
         encodeURIComponent("The Monarch Garden, Muzaffarpur, Bihar, India"),
-      description: "An evening of song and dance as both families come together.",
+      description: "An evening of music, dance and the exchange of rings as both families come together.",
     },
     {
       key: "wedding",
