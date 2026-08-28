@@ -686,6 +686,8 @@ export default function App() {
             </p>
             <p className="message-sign">
               {CONFIG.brideMotherName} &amp; {CONFIG.brideFatherName}
+              <br />
+              {CONFIG.groomMotherName} &amp; {CONFIG.groomFatherName}
             </p>
           </div>
         </Reveal>
@@ -782,6 +784,8 @@ export default function App() {
         <p className="footer-blessing">With blessings and love</p>
         <p className="footer-parents">
           {CONFIG.brideMotherName} &amp; {CONFIG.brideFatherName}
+          <br />
+          {CONFIG.groomMotherName} &amp; {CONFIG.groomFatherName}
         </p>
         <p className="footer-couple">
           {CONFIG.brideFullName}{" "}
